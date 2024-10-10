@@ -5,7 +5,7 @@ The main objective of this project is to analyze bank loan data to determine loa
 ## Overview
 In this comprehensive Power BI and SQL project, I explored bank loan data with the goal of improving my skills in data cleaning, visualization, and query optimization. The project involves importing data, performing extensive cleaning operations, and utilizing SQL queries to extract meaningful insights. Finally, interactive dashboards are created using Power BI to display the analysis results, helping banks streamline their loan approval process.
 
-Key Learnings:
+## Key Learnings:
 
 Enhanced proficiency in data cleaning, visualization, and analysis techniques.
 Deepened understanding of SQL database management and query optimization.
@@ -25,7 +25,7 @@ License
 This project revolves around analyzing bank loan data using a blend of SQL for database management and Power BI for visualization.
 
 ## Steps Involved:
-Data Import and Cleaning:
+## Data Import and Cleaning:
 
 Imported raw bank loan data.
 Cleaned data by handling missing values, removing duplicates, and standardizing formats.
