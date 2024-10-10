@@ -1,5 +1,5 @@
 ## Bank_Loan_Analysis
-##Problem Statement
+## Problem Statement
 The main objective of this project is to analyze bank loan data to determine loan eligibility based on certain factors such as income, loan amount, credit history, and more. The analysis provides insights into loan trends, helps identify key factors that influence loan approvals, and assists financial institutions in making data-driven decisions to minimize risks.
 
 ## Overview
