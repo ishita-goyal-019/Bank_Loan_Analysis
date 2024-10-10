@@ -1,6 +1,5 @@
 ## Bank_Loan_Analysis
-![Bank_loan]https://github.com/ishita-goyal-019/assets/![WhatsApp Image 2024-10-10 at 7 22 42 PM](https://github.com/user-attachments/assets/28a29bb0-b7cf-4ba9-9af7-f8bdbd343c90)
-
+![Bank Loan Analysis Image](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*D-NoNNX-yiiAxJpb.png)
 ## 🎯 Problem Statement
 The main objective of this project is to analyze bank loan data to determine loan eligibility based on certain factors such as income, loan amount, credit history, and more. The analysis provides insights into loan trends, helps identify key factors that influence loan approvals, and assists financial institutions in making data-driven decisions to minimize risks.
 
